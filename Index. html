@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Practical 15 - Personal Information</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="profile-box">
+    <h1>Prince</h1>
+    <p class="subtitle">Diploma in Computer Science & Engineering</p>
+    
+    <hr>
+
+    <h2>About Me</h2>
+    <p>Hello! I am a Computer Science student learning web development, HTML, CSS, and JavaScript. I enjoy building clean and responsive websites.</p>
+
+    <h2>Contact Details</h2>
+    <p><strong>Email:</strong> prince@example.com</p>
+    <p><strong>Phone:</strong> +91 9876543210</p>
+    <p><strong>Location:</strong> New Delhi, India</p>
+  </div>
+
+</body>
+</html>
